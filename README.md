@@ -13,7 +13,7 @@
 ## Install
 
 ```fish
-$ omf install node-binpath
+$ fisher install jbergstroem/node-binpath
 ```
 
 ## Usage
